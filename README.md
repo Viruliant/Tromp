@@ -13,7 +13,7 @@ and test all the examples from the `test.sh` by either reading them and manually
 
     bash ./test.sh
 
-either way if you're not confident in your abilities in the LC you should definitely read AND edit them AND answer the following Questions John Tromp listed [when he won the IOCC with the `./tromp.c` file](http://www.ioccc.org/2012/tromp/hint.html)
+either way if you're not confident in your abilities in the LC you should definitely read AND edit the `test.sh` file AND also answer the following Questions John Tromp listed [when he won the IOCC with the `./tromp.c` file](http://www.ioccc.org/2012/tromp/hint.html)
 
 1. Which of the term space codes 0,1,2,3 serves multiple purposes?
 
