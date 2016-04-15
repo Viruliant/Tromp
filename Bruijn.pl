@@ -2,8 +2,9 @@
 use Time::HiRes qw( usleep gettimeofday tv_interval stat time alarm sleep );
 #use strict;
 use warnings;
-use IO::File;	
+use IO::File;
 use Cwd; my $originalCwd = getcwd()."/";
+#primes.blc as argument for test conversion
 #______________________________________________________________________open file
 my ($name) = @ARGV;
 $FILE = new IO::File;
